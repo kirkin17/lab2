@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-	//test;
 	setlocale(LC_ALL, "rus");
 	int n = 0;
 	double x, min, max, s = 0, pos = 0;
